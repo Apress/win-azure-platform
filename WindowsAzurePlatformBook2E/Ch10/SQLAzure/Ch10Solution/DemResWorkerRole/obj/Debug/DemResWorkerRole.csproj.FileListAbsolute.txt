@@ -1,0 +1,54 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\LogContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResWorkerRole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll.config
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\DemResWorkerRole.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\LogContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\LogContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\ProAzureDemResContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResWorkerRole\obj\Debug\DemResWorkerRole.pdb

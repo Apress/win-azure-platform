@@ -1,0 +1,27 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\EnergyServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\bin\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\EnergyServiceContract\obj\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\obj\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\EnergyServiceContract\bin\Debug\Microsoft.ServiceBus.xml

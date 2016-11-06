@@ -1,0 +1,7 @@
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\bin\Debug\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\bin\Debug\EventPoint_Data.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\obj\Debug\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Data\obj\Debug\EventPoint_Data.pdb

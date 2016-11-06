@@ -1,0 +1,14 @@
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\3PlogicDataTransferClient.exe.config
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\3PlogicDataTransferClient.exe
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\3PlogicDataTransferClient.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\ProAzureCommonLib.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\ProAzureCommonLib.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.Properties.Resources.resources
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\3PlogicDataTransferClient.csproj.GenerateResource.Cache
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\3PlogicDataTransferClient.exe
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\3PlogicDataTransferClient.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueStorage" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACBAABAAAAAAAAAAIAQAQAAAAAAEAEICAQQAAAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageAccountInfo" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAIQABAAAiAAAAEAAAAAVEEAMAABAACCIQQAIAACEAA=</HashCode>
+      <FileName>StorageAccountInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueStorageRest" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAEAAAAAAABA=</HashCode>
+      <FileName>RestQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.MessageQueue" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAKIAAYAAAUAgAIAAAQAQAAkCCEAICAAAAQADAAIA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueRest" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAACIABQACAMCgAAACAgACIA0CC0AABAEAAQADEAIA=</HashCode>
+      <FileName>RestQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

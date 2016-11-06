@@ -1,0 +1,9 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\AsyncMessageReceiverSB_Worker.dll.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\AsyncMessageReceiverSB_Worker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\AsyncMessageReceiverSB_Worker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\obj\Debug\AsyncMessageReceiverSB_Worker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\AsyncMessageReceiverSB_Worker\obj\Debug\AsyncMessageReceiverSB_Worker.pdb

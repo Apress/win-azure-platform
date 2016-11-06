@@ -1,0 +1,44 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\ProAzureCommon\ProAzureCommonLib\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommon.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\ProAzureCommon.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\ProAzureCommon\ProAzureCommonLib\obj\Debug\ProAzureCommonLib.pdb

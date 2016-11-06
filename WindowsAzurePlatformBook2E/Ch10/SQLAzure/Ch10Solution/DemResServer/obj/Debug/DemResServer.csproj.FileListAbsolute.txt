@@ -1,0 +1,45 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\bin\Debug\DemResServer.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\bin\Debug\DemResServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\bin\Debug\DemResServer.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\bin\Debug\ProAzureDemResContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\bin\Debug\ProAzureDemResContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\DemResServer.DemResServer.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\DemResServer.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\DemResServer.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\DemResServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResServer\obj\Debug\DemResServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\bin\Debug\DemResServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\bin\Debug\DemResServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\bin\Debug\DemResServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\DemResServer.DemResServer.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\DemResServer.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\DemResServer.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\DemResServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResServer\obj\Debug\DemResServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.DemResServer.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\bin\Debug\DemResServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\bin\Debug\ProAzureDemResContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\bin\Debug\ProAzureDemResContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.DemResServer.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.Properties.Resources.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\DemResServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\GenerateResource.read.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResServer\obj\Debug\GenerateResource.write.1.tlog

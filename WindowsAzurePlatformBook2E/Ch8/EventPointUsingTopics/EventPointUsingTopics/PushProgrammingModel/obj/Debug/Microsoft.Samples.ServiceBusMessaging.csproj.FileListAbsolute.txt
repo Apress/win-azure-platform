@@ -1,0 +1,8 @@
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\bin\Debug\PushProgrammingModel.dll.config
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\bin\Debug\PushProgrammingModel.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\bin\Debug\PushProgrammingModel.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\bin\Debug\Microsoft.ServiceBus.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\bin\Debug\Microsoft.ServiceBus.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\obj\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\obj\Debug\PushProgrammingModel.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\PushProgrammingModel\obj\Debug\PushProgrammingModel.pdb

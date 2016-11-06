@@ -1,0 +1,27 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\HelloWebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\HelloWebRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\obj\Debug\HelloWebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWebRole\obj\Debug\HelloWebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\HelloWebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\HelloWebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\obj\Debug\HelloWebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWebRole\obj\Debug\HelloWebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\HelloWebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\HelloWebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\obj\Debug\HelloWebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWebRole\obj\Debug\HelloWebRole.pdb

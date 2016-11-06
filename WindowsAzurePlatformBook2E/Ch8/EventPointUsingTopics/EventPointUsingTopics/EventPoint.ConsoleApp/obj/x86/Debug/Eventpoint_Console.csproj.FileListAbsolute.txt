@@ -1,0 +1,10 @@
+C:\Projects\EventPoint\Eventpoint_Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\Eventpoint_Console.exe.config
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\Eventpoint_Console.exe
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\Eventpoint_Console.pdb
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\EventPoint_Data.dll
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\EventPoint_Data.pdb
+C:\Projects\EventPoint\Eventpoint_Console\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\Eventpoint_Console\obj\x86\Debug\Eventpoint_Console.exe
+C:\Projects\EventPoint\Eventpoint_Console\obj\x86\Debug\Eventpoint_Console.pdb

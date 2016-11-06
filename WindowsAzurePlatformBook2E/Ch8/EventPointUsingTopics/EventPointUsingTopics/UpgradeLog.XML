@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EventPoint">
+</Property><Property Name="Solution File" Value="D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.sln">
+</Property><Property Name="Date" Value="Wednesday, November 23, 2011">
+</Property><Property Name="Time" Value="7:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint\EventPoint.ccproj" Source="EventPoint\EventPoint.ccproj" Description="Upgraded ProductVersion value to 1.6.">
+</Event><Event ErrorLevel="3" Project="D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint\EventPoint.ccproj" Source="EventPoint\EventPoint.ccproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint\EventPoint.ccproj" Source="EventPoint\EventPoint.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.6\.">
+</Event><Event ErrorLevel="0" Project="D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint\EventPoint.ccproj" Source="EventPoint\EventPoint.ccproj" Description="Generate a default Publish Profile Profiles\EventPointProduction.azurePubxml based on previous user's setting and add it to the project.">
+</Event><Event ErrorLevel="0" Project="EventPoint_WebRole" Source="EventPoint_WebRole\EventPoint_WebRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint_WebRole" Source="EventPoint_WebRole\EventPoint_WebRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint_WorkerRole" Source="EventPoint_WorkerRole\EventPoint_WorkerRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint_WorkerRole" Source="EventPoint_WorkerRole\EventPoint_WorkerRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint.CriticalPersister" Source="EventPoint.CriticalPersister\EventPoint.CriticalPersister.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint.CriticalPersister" Source="EventPoint.CriticalPersister\EventPoint.CriticalPersister.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint.Common" Source="EventPoint.Common\EventPoint.Common.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint.Common" Source="EventPoint.Common\EventPoint.Common.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint.Data" Source="EventPoint.Data\EventPoint.Data.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint.Data" Source="EventPoint.Data\EventPoint.Data.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint.ConsoleApp" Source="EventPoint.ConsoleApp\EventPoint.ConsoleApp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint.ConsoleApp" Source="EventPoint.ConsoleApp\EventPoint.ConsoleApp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Eventpoint.Monitor" Source="Eventpoint.Monitor\Eventpoint.Monitor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Eventpoint.Monitor" Source="Eventpoint.Monitor\Eventpoint.Monitor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EventPoint.GenerateData" Source="EventPoint.GenerateData\EventPoint.GenerateData.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EventPoint.GenerateData" Source="EventPoint.GenerateData\EventPoint.GenerateData.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="EventPoint.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="EventPoint.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

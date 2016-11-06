@@ -1,0 +1,28 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\MessageBuffer.Form1.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\MessageBuffer.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\MessageBuffer.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\bin\Debug\MessageBuffer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\bin\Debug\MessageBuffer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\MessageBuffer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\MessageBuffer\obj\Debug\MessageBuffer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\bin\Debug\MessageBuffer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\bin\Debug\MessageBuffer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.Form1.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\bin\Debug\MessageBuffer.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\bin\Debug\MessageBuffer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\bin\Debug\MessageBuffer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.Form1.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.Properties.Resources.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\GenerateResource.read.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\GenerateResource.write.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\MessageBuffer\obj\Debug\MessageBuffer.pdb

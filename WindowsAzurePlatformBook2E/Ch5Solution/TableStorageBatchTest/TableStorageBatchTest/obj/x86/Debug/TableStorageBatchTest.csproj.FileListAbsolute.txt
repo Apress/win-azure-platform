@@ -1,0 +1,12 @@
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\bin\Debug\TableStorageBatchTest.exe.config
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\TableStorageBatchTest.Form1.resources
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\TableStorageBatchTest.Properties.Resources.resources
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\bin\Debug\TableStorageBatchTest.exe
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\bin\Debug\TableStorageBatchTest.pdb
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\TableStorageBatchTest.exe
+C:\download\Windows Azure\TableStorageBatchTest\TableStorageBatchTest\obj\x86\Debug\TableStorageBatchTest.pdb

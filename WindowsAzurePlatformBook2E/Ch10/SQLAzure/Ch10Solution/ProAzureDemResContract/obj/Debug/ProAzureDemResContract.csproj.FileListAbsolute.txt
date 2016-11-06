@@ -1,0 +1,20 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ProAzureDemResContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ProAzureDemResContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ProAzureDemResContract\bin\Debug\ProAzureDemResContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ProAzureDemResContract\obj\Debug\ProAzureDemResContract.pdb

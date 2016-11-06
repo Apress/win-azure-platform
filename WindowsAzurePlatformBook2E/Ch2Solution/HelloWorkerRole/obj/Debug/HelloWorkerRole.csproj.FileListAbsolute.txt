@@ -1,0 +1,32 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\startme.cmd
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\startme.cmd
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\HelloWorkerRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\HelloWorkerRole\obj\Debug\HelloWorkerRole.pdb

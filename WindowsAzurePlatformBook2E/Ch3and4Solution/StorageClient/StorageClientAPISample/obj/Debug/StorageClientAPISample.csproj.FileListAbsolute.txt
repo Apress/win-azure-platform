@@ -1,0 +1,45 @@
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe.config
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClientAPISample.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\StorageClientAPISample\obj\Debug\ResolveAssemblyReference.cache

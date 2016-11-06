@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProAzureTableStorageClasses.ProAzureReader">
+    <Position X="0.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAIAIACCACAAAIAAAAgABAABAAAAAA=</HashCode>
+      <FileName>ProAzureReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProAzureTableStorageClasses.ProAzureReaderDataSource">
+    <Position X="9.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAACACAAiAIAAAAAAAAAgGAAABAACQAYAAEg=</HashCode>
+      <FileName>ProAzureReaderDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProAzureTableStorageClasses.ProAzureReaderDataContext">
+    <Position X="3.5" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProAzureReaderDataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.WindowsAzure.StorageClient.TableServiceEntity">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.WindowsAzure.StorageClient.TableServiceContext">
+    <Position X="3.5" Y="2" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Data.Services.Client.DataServiceContext" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

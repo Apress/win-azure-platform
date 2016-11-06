@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="WebWorkerComm" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*">
+  <Role name="WebWorkerExch_WebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="PerformanceCounters" value="\ASP.NET\Request Execution Time,\ASP.NET Applications(__Total__)\Requests/Sec,\ASP.NET Applications(__Total__)\Requests Total,\Processor(_Total)\% Processor Time,\Memory\Available MBytes" />
+      <Setting name="LogLevel" value="debug" />
+      <Setting name="EnableOnScreenLogging" value="true" />
+      <Setting name="ThrowExceptions" value="true" />
+    </ConfigurationSettings>
+  </Role>
+  <Role name="WebWorkerExch_WorkerRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="LogLevel" value="debug" />
+      <Setting name="SystemInfoServiceURL" value="http://localhost:8080/SystemInfo.svc" />
+      <Setting name="ThreadSleepTimeInMillis" value="5000" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

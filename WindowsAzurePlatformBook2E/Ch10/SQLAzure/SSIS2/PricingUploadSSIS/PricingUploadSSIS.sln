@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "PricingUploadSSIS", "PricingUploadSSIS\PricingUploadSSIS.dtproj", "{C9D176D5-E441-46A0-A084-B1F0AC01DD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D176D5-E441-46A0-A084-B1F0AC01DD8C}.Development|Default.ActiveCfg = Development
+		{C9D176D5-E441-46A0-A084-B1F0AC01DD8C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

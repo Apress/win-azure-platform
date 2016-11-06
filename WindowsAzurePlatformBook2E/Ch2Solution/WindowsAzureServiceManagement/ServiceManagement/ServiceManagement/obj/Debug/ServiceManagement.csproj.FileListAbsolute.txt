@@ -1,0 +1,161 @@
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.csproj.GenerateResource.Cache
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.csproj.GenerateResource.Cache
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\ServiceManagementAPI\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\3\Ch3Solution\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\StorageClient.dll
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\OpenPaaS\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Azure\Opportunities\HP\DDE\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\dynamicdeploy\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe.config
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.ServiceManagementForm.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.Properties.Resources.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\obj\Debug\ServiceManagement.pdb

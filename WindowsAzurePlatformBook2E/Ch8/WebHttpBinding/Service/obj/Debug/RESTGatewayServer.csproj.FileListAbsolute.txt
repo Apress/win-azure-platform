@@ -1,0 +1,32 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\off.jpg
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\WebHttpBinding\Service\bin\Debug\on.jpg
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\off.jpg
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\on.jpg
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\off.jpg
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\on.jpg
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\RESTGatewayServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\WebHttpBinding\Service\obj\Debug\RESTGatewayServer.exe

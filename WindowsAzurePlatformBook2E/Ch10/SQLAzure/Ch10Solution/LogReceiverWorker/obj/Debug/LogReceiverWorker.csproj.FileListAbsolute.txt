@@ -1,0 +1,51 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.ServiceBus.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogReceiverWorker.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\LogContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverWorker\obj\Debug\LogReceiverWorker.pdb

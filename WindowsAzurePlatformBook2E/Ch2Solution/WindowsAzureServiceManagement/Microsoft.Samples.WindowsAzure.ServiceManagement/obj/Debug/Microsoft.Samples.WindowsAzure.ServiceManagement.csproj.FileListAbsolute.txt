@@ -1,0 +1,50 @@
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\ServiceManagementAPI\Tool\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\OpenPaaS\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\OpenPaaS\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\OpenPaaS\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\OpenPaaS\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\OpenPaaS\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dd\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\dd\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\dd\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\dd\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\dd\dynamicdeploy\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\obj\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb

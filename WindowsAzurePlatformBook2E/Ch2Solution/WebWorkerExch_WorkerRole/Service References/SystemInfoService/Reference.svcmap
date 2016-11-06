@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="75f85ff0-1aa1-41ec-97fe-86bbf5208a0b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1873/SystemInfo.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SystemMessageExchange.xsd" MetadataType="Schema" ID="7e0b6a86-8dfa-45ad-95fb-522e763c0b7f" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?xsd=xsd2" />
+    <MetadataFile FileName="SystemInfo.xsd" MetadataType="Schema" ID="0960560d-9025-4112-a5bc-46a7e7824b07" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?xsd=xsd3" />
+    <MetadataFile FileName="SystemInfo1.xsd" MetadataType="Schema" ID="130174f9-30f8-4d7e-a5aa-2958ae302e49" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?xsd=xsd0" />
+    <MetadataFile FileName="SystemInfo2.xsd" MetadataType="Schema" ID="22b44b82-20dd-4785-be06-234573da2a43" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?xsd=xsd1" />
+    <MetadataFile FileName="SystemInfo.wsdl" MetadataType="Wsdl" ID="f448ff09-ff47-4028-9550-76f6552ffb00" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?wsdl" />
+    <MetadataFile FileName="SystemInfo.disco" MetadataType="Disco" ID="64d7e577-5139-4b66-83de-b709b1ad1a73" SourceId="1" SourceUrl="http://localhost:1873/SystemInfo.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

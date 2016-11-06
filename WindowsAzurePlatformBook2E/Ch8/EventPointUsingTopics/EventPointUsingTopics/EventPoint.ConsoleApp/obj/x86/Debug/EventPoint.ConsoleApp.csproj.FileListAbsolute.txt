@@ -1,0 +1,34 @@
+C:\Projects\EventPoint 2011-06-05\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe.config
+C:\Projects\EventPoint 2011-06-05\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.exe
+C:\Projects\EventPoint 2011-06-05\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.pdb
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe.config
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.pdb
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\EventPoint.Common.dll
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\EventPoint_Data.dll
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\EventPoint.Common.pdb
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\EventPoint_Data.pdb
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\EventPoint.ConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.exe
+C:\Projects\EventPoint\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.pdb
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Microsoft.ServiceBus.dll
+C:\Projects\EventPoint\EventPoint.ConsoleApp\bin\Debug\Microsoft.ServiceBus.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe.config
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.exe
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\EventPoint.Common.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Microsoft.ServiceBus.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\EventPoint.Common.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\EventPoint_Data.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Microsoft.ServiceBus.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\bin\Debug\Eventpoint_Console.exe.config
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.exe
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\EventPoint.ConsoleApp\obj\x86\Debug\Eventpoint_Console.pdb

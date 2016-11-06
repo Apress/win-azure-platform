@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageAccountInfo" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIQABAAAiAAAAEAAAAAVEEAMAABAACCIQQAIAACEAA=</HashCode>
+      <FileName>StorageAccountInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorage" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAACQACAAQAJAAQEEAAAIAAkEACAcQAAAACABA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageTable" Collapsed="true">
+    <Position X="2.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAQAAAIA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageEntity" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAACAAAAAAQAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageDataServiceContext" Collapsed="true">
+    <Position X="5.5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAIAIAAAAAASAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageDataServiceQuery&lt;TElement&gt;" Collapsed="true">
+    <Position X="5.5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAQgIAAAAAAAAAAAAAgQAAAAAAAAgAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,16 @@
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\CriticalPersister.dll.config
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\CriticalPersister.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\CriticalPersister.pdb
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\EventPoint.Common.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\EventPoint_Data.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\Microsoft.ServiceBus.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\msshrtmi.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\EventPoint.Common.pdb
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\EventPoint_Data.pdb
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\EventPoint.CriticalPersister\bin\Release\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Projects\EventPoint\EventPoint.CriticalPersister\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\EventPoint.CriticalPersister\obj\Release\CriticalPersister.dll
+C:\Projects\EventPoint\EventPoint.CriticalPersister\obj\Release\CriticalPersister.pdb

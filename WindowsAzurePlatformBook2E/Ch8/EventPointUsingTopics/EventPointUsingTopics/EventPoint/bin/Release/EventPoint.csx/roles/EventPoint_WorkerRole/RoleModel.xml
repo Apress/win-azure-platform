@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="EventPoint_WorkerRole" version="1.4.20407.2049" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime />
+  <Properties>
+    <Property name="RoleType" value="Worker" />
+    <Property name="RoleName" value="EventPoint_WorkerRole" />
+    <Property name="ProjectName" value="EventPoint_WorkerRole" />
+    <Property name="Configuration" value="Release" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SourceDir" value="" />
+    <Property name="SitePhysicalPath" value="" />
+    <Property name="OutputDir" value="C:\Projects\EventPoint\EventPoint\obj\Release\EventPoint_WorkerRole\" />
+    <Property name="EntryPoint" value="EventPoint_WorkerRole.dll" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="OriginalItemSpec" value="C:\Projects\EventPoint\EventPoint\EventPoint.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\Projects\EventPoint\EventPoint\EventPoint.ccproj" />
+    <Property name="MSBuildSourceTargetName" value="ResolveSingleWorkerRoleReference" />
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+</RoleModel>

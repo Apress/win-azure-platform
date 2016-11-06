@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch3and4Solution">
+</Property><Property Name="Solution File" Value="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\Ch3and4Solution.sln">
+</Property><Property Name="Date" Value="Monday, August 22, 2011">
+</Property><Property Name="Time" Value="8:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="StorageClient" Source="StorageClient\Lib\StorageClient.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="StorageClient" Source="StorageClient\Lib\StorageClient.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Windows Azure Storage Operations" Source="Windows Azure Storage\Windows Azure Storage Operations.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Windows Azure Storage Operations" Source="Windows Azure Storage\Windows Azure Storage Operations.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="CDNTest" Source="CDNTest\CDNTest.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CDNTest" Source="CDNTest\CDNTest.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="vhdupload" Source="vhdupload\vhdupload.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="vhdupload" Source="vhdupload\vhdupload.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="vhddownload" Source="vhddownload\vhddownload.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="vhddownload" Source="vhddownload\vhddownload.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\DrivesExample\DrivesExample.ccproj" Source="DrivesExample\DrivesExample.ccproj" Description="Upgraded ProductVersion value to 1.4.0.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\DrivesExample\DrivesExample.ccproj" Source="DrivesExample\DrivesExample.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.4\.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\DrivesExample\DrivesExample.ccproj" Source="DrivesExample\DrivesExample.ccproj" Description="Upgraded target file name from Microsoft.CloudService.targets to Microsoft.WindowsAzure.targets.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\DrivesExample\DrivesExample.ccproj" Source="DrivesExample\DrivesExample.ccproj" Description="Added import $(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\DrivesExample\DrivesExample.ccproj" Source="DrivesExample\DrivesExample.ccproj" Description="Added VisualStudioVersion property.">
+</Event><Event ErrorLevel="0" Project="Drives" Source="Drives\Drives.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Drives" Source="Drives\Drives.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Ch3and4Solution.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Ch3and4Solution.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

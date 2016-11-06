@@ -1,0 +1,13 @@
+C:\Projects\EventPoint\EventPoint_WebRole\bin\EventPoint_WebRole.dll
+C:\Projects\EventPoint\EventPoint_WebRole\bin\EventPoint_WebRole.pdb
+C:\Projects\EventPoint\EventPoint_WebRole\bin\EventPoint_Data.dll
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\EventPoint_WebRole\bin\EventPoint_Data.pdb
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.ServiceRuntime.xml
+C:\Projects\EventPoint\EventPoint_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\EventPoint_WebRole\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\EventPoint_WebRole\obj\Release\EventPoint_WebRole.dll
+C:\Projects\EventPoint\EventPoint_WebRole\obj\Release\EventPoint_WebRole.pdb

@@ -1,0 +1,188 @@
+Syntax:
+    csmanage /command [/resourcetype:resourcename] [optional-parameters]
+     
+Description:     
+        Manage your deployments and services using the Windows Azure Service Management API.
+       
+Configuration File Settings:
+        All operations need the following settings specified in csmanage.exe.config
+        
+        SubscriptionID         :    Your subscription ID. You can find this in the "Account" tab of the 
+                                    Windows Azure Developer Portal.
+                        
+        CertificateThumbprint  :    Hex thumbprint of a X509 certificate previously uploaded in
+        							the "API Certificates" section of the Windows Azure developer portal.
+        							
+Resources:
+
+		/storage-service:<storage-account-name>
+		
+			Specifies the storage service/account name for the command
+		
+		/hosted-service:<hosted-service-name>
+		
+			Specifies the hosted service name for the command
+		
+		/affinity-group:<affinity-group-name>
+		
+			Specifies the affinity group for the command
+
+Commands:
+
+		/?
+		
+			Display this message
+			
+		/view-properties [/resourcetype:resource]
+		
+			Lists the properties for the specified resource (hosted service/storage account/affinity group). 
+			
+		/get-operation-status /op-id:<operation-id>
+		
+			Shows status of specified operation-id. All API commands return an operation id in the x-ms-request-id
+			header.
+			
+							
+		*** Affinity Group Commands ***
+		
+		/list-affinity-groups
+		
+		Lists all affinity groups in the subscription. Use view-properties to display details on any particular
+		affinity group.
+		
+		
+		*** Storage Account Commands ***
+			
+		/list-storage-services
+		
+			Lists all storage services underneath the subscription.
+		
+		/view-keys
+		
+			Acts on storage accounts only. Displays the primary and secondary keys for the account. Should have
+			the storage account resource specified.
+		
+		/regenerate-key 	/key-type:primary|secondary
+		
+			Acts on storage accounts only. Regenerates storage keys with the key-type parameter specifying
+			which key to regenerate. Should have the storage account resource specified.		
+
+		
+		*** Hosted Service Commands ***
+		
+		/list-hosted-services
+		
+			Lists all hosted services under the subscription/ Use /view-properties to view details on a 
+			particular hosted service.
+			
+		
+		*** Deployment Commands ***
+		
+		/view-deployment /slot:staging|production 
+		/view-deployment /name:<deployment-name>
+		
+			View details of a specified deployment. You can specify the deployment either by slot type or by name. Should
+			have the hosted-service resource specified.
+		
+		
+		/create-deployment  /name:<name-of-deployment> /label:<label> /package:<blob-uri> /config:<filename> /slot:staging|production
+
+		
+			Create a new deployment. The package parameter should have the URI to a .cspkg in blob storage whose
+			storage account is part of the same subscription/project. The /config parameter should specifiy a .cscfg file on disk.
+			Note that there shouldn't be a deployment of the same name or in the same slot when executing this command.
+			Should have the hosted-service resource specified.
+		
+		/swap-deployment /production-slot:<deployment-name-in-production> /source-deployment:<deployment-name-in-staging>
+		
+			Swaps the deployments in production and stage. To make sure the command works on the deployments you expect them to, you
+			need to pass the name of the deployment currently in production and the name of the deployment currently in staging. If you
+			dont have any resource in production, you can leave it empty.
+			Should have the hosted-service resource specified.
+		
+		/delete-deployment /name:<deployment-name>
+		/delete-deployment /slot:production|staging
+		
+			Deletes the specified deployment. Note that the deployment should be in suspended state.
+			Should have the hosted-service resource specified.
+		
+		/update-deployment /status:running|suspended /name:<deployment-name>
+		/update-deployment /status:running|suspended /slot:production|staging
+		
+			Change deployment status to running or suspended. Needs a hosted-service resource specified.
+		
+		/change-deployment-config /config:<filename> /slot:production|staging
+		/change-deployment-config /config:<filename> /name:<deployment-name>
+		
+			Change the  deployment's configuration. Should have the hosted-service resource specified.
+			
+		/upgrade-deployment /mode:auto|manual /label:<label> /config:<config-filename> /name:<deployment-name>
+		/upgrade-deployment /mode:auto|manual /label:<label> /config:<config-filename> /slot:staging|production
+		
+			Initiates an in-place upgrade of the specified deployment. Needs a hosted-service resource specified.
+			
+		/walk-upgrade-domain /domain:<update-domain-number> /slot:production|staging
+		/walk-upgrade-domain /domain:<update-domain-number> /name:<deployment-name>
+		
+			Walks the specified upgrade domain. Should have the hosted-service resource specified.
+			
+		*** Certificate Commands ***
+
+		/list-certificates
+		
+			Lists certificate thrumbprints for a hosted service. Should have the hosted service resource specified.
+		
+		/add-certificate /cert:file:<path-to-cert-file> /cert:format:[pfx] /cert-password:<password>
+		
+			Adds a certificate to the specified hosted service. Should have hosted service resource specified. pfx
+			is the only format supported currently
+			
+		/delete-certificate /cert-thumbprint:<thumbprint> /algorithm:<algorithm>
+		
+			Deletes certificate with specified thumbprint and algorithm. Should have hosted service resource specified.			
+
+		*** Operating System Commands ***
+		
+		/list-operating-systems
+		
+			Lists all operating systems that can be used when creating deployments in Windows Azure.
+					
+			
+Examples:
+
+    1. Creating a new deployment in staging.
+    
+    	This assumes that there is a storage account called 'myaccount' under the same subscription and a package in the 'packages'
+    	container. It also uses a 'HelloFabric.cscfg' config file in the current working directory.
+    	
+    	csmanage.exe /create-deployment /slot:staging /hosted-service:testhostedservice 
+    	/name:testdep /label:testlabel /config:./HelloFabric.cscfg    
+    	/package:http://myaccount.blob.core.windows.net/packages/HelloFabric.cspkg
+    
+    2. Updating deployment status to running.
+    
+       csmanage.exe /update-deployment /slot:staging /hosted-service:testhostedservice
+       /status:running
+       
+       We could replace the last parameter with a /name parameter as well.
+       
+    3. Swapping staging and production
+    	
+    	csmanage.exe /swap-deployment /hosted-service:testhostedservice
+    	/source-deployment:testdep /production-slot:somedeploymentinprod
+     
+	4. Changing configuration/number of VMs
+	
+		We'll assume the configuration file has the number of role instances specified.
+		
+		csmanage.exe /change-deployment-config /hosted-service:testhostedservice /slot:production
+		/config:./HelloFabricWithMoreVMs.cscfg
+		
+ 
+    	
+		
+Notes:
+
+	Currently,this tool doesn't support the embed-detail flag to display hosted service properties. You need
+	  to look up both staging and production slots separately to see the deployments underneath a service.			
+		

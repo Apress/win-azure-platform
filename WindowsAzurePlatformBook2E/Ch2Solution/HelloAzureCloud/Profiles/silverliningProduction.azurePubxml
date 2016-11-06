@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AzureCredentials>proazure</AzureCredentials>
+    <AzureDeploymentLabel>HelloAzureCloud - 1/12/2011 1:12:20 PM</AzureDeploymentLabel>
+    <AzureSlot>Production</AzureSlot>
+    <AzureEnableWebDeploy>False</AzureEnableWebDeploy>
+    <AzureHostedServiceName>silverlining</AzureHostedServiceName>
+    <AzureHostedServiceLabel>silverlining</AzureHostedServiceLabel>
+    <AzureEnableIntelliTrace>True</AzureEnableIntelliTrace>
+    <AzureStorageAccountName>silverliningstorage1</AzureStorageAccountName>
+    <AzureStorageAccountLabel>silverliningstorage1</AzureStorageAccountLabel>
+  </PropertyGroup>
+</Project>

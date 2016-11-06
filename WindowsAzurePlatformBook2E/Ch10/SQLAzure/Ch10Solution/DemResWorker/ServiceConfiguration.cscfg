@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="DemResWorker" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="DemResWorkerRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="UserName" value="owner"/>
+      <Setting name="Password" value="/GrPN1SJYQw6yNFToQyWpSA4EUPxZz1dTuneVWISMPo="/>
+      <Setting name="LogEndpoint" value="sb://proazure1.servicebus.windows.net/sample/log/"/>
+      <Setting name="DemResEndpoint" value="sb://proazure1.servicebus.windows.net/DemResService"/>
+      <Setting name="SQLAzure-ServerName" value="yau6hf9dx8.database.windows.net"/>
+      <!--<Setting name="SQLAzure-UserName" value="proazureadmin"/>
+      <Setting name="SQLAzure-Password" value="pass@word1"/>-->
+      <Setting name="SQLAzure-UserName" value="tonyguid"/>
+      <Setting name="SQLAzure-Password" value="P@ssword"/>
+      <Setting name="SQLAzure-DatabaseName" value="proazuredemres"/>
+
+
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

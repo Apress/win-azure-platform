@@ -1,0 +1,42 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\NetTcpRelayBinding.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\ServiceBusUtils.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetTcpRelay\NetTcpRelayBinding\obj\Debug\NetTcpRelayBinding.pdb

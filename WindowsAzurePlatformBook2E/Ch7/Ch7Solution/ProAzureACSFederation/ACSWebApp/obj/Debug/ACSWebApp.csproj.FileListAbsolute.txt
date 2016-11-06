@@ -1,0 +1,27 @@
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.dll
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.pdb
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.dll
+D:\ApressAzureBook\Code\Ch6\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.pdb
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.pdb
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.dll
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.pdb
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\ApressAzureBook\Code\Ch8\Ch8Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\ACSWebApp.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ACSWebApp\obj\Debug\ACSWebApp.pdb

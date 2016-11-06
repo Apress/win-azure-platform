@@ -1,0 +1,11 @@
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\EventPoint_WebRole.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\EventPoint_WebRole.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\EventPoint_Data.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\obj\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\obj\Debug\EventPoint_WebRole.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint_WebRole\obj\Debug\EventPoint_WebRole.pdb

@@ -1,0 +1,40 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\obj\Debug\LogReceiverConsole.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogReceiverConsole.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogReceiverConsole\bin\Debug\LogContract.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Samples.WindowsAzure.ServiceManagement", "..\Microsoft.Samples.WindowsAzure.ServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement.csproj", "{4F45D685-1CAE-412C-9C9F-6A4073214116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csmanage", "csmanage\csmanage.csproj", "{700D91A5-4AAC-4C66-BF01-A3E9FEF02669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F45D685-1CAE-412C-9C9F-6A4073214116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F45D685-1CAE-412C-9C9F-6A4073214116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F45D685-1CAE-412C-9C9F-6A4073214116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F45D685-1CAE-412C-9C9F-6A4073214116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{700D91A5-4AAC-4C66-BF01-A3E9FEF02669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700D91A5-4AAC-4C66-BF01-A3E9FEF02669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700D91A5-4AAC-4C66-BF01-A3E9FEF02669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700D91A5-4AAC-4C66-BF01-A3E9FEF02669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

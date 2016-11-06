@@ -1,0 +1,1 @@
+csmanage.exe /create-deployment /slot:staging /hosted-service:proazure /name:testdep /label:testlabel /config:"C:\Tejaswi\3PLogic\3PLogicAzure\SilverliningWebService\bin\Debug\Publish\ServiceConfiguration.cscfg"  /package:http://proazurestorage.blob.core.windows.net/silverliningpackages/SilverliningWebService.cspkg

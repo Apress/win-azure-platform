@@ -1,0 +1,7 @@
+C:\Projects\EventPoint\EventPoint.Data\bin\Release\EventPoint_Data.dll
+C:\Projects\EventPoint\EventPoint.Data\bin\Release\EventPoint_Data.pdb
+C:\Projects\EventPoint\EventPoint.Data\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\EventPoint.Data\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\EventPoint.Data\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\EventPoint.Data\obj\Release\EventPoint_Data.dll
+C:\Projects\EventPoint\EventPoint.Data\obj\Release\EventPoint_Data.pdb

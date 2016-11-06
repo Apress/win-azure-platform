@@ -1,0 +1,51 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices March2009 CTP\NetOnewayRelayBinding\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetOnewayRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\ServiceBusUtils.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetOnewayRelayServer\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Code\Ch8\NetOnewayRelayServer\bin\Debug\NetOnewayRelayServer.exe.config
+D:\ApressAzureBook\Code\Ch8\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.exe
+D:\ApressAzureBook\Code\Ch8\NetOnewayRelayServer\obj\Debug\NetOnewayRelayServer.pdb

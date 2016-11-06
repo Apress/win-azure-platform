@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="ProAzureReaderTracker" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="ProAzureReaderTracker_WebRole">
+    <Instances count="2" />
+    <ConfigurationSettings>
+      <Setting name="StorageAccountConnectionString" value="UseDevelopmentStorage=true" />
+      <!--Windows Azure Account Information-->
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

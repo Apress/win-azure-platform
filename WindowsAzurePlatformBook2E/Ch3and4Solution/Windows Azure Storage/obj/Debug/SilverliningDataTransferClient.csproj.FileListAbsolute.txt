@@ -1,0 +1,159 @@
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe.config
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.csproj.GenerateResource.Cache
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.dll
+C:\tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.pdb
+C:\Tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.pdb
+C:\Tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\System.Drawing.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\Windows Azure Storage\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe.config
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\System.Drawing.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.xml
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\ResGen.read.1.tlog
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\ResGen.write.1.tlog
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\GenerateResource.read.1.tlog
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\GenerateResource.write.1.tlog
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorageOrig.resources
+D:\Downloads\Silverlining\3PLogicAzure APril202010-Inc\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.APISelectionFrm.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe.config
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\System.Drawing.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\ImageUtilityLib.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\LogContract.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.APISelectionFrm.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorageOrig.resources
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe.config
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\ImageUtilityLib.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\System.Drawing.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\LogContract.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\ImageUtilityLib.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\LogContract.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.APISelectionFrm.resources
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorageOrig.resources
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe.config
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\ImageUtilityLib.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\System.Drawing.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\LogContract.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\ImageUtilityLib.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Common.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Silverlining.Application.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\LogContract.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.Samples.WindowsAzure.ServiceManagement.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.APISelectionFrm.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorageOrig.resources
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.APISelectionFrm.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\Microsoft.Silverlining.Properties.Resources.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorageOrig.resources
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\GenerateResource.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\ResGen.read.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\GenerateResource.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\ResGen.write.1.tlog
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.exe
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\Windows Azure Storage\obj\Debug\SilverliningDataTransferClient.pdb

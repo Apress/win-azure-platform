@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="EventPoint_WebRole" version="1.4.20407.2049" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime />
+  <Properties>
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="EventPoint_WebRole" />
+    <Property name="ProjectName" value="EventPoint_WebRole" />
+    <Property name="Configuration" value="Release" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="OutputDir" value="C:\Projects\EventPoint\EventPoint\obj\Release\EventPoint_WebRole\" />
+    <Property name="EntryPoint" value="EventPoint_WebRole.dll" />
+    <Property name="SourceDir" value="C:\Projects\EventPoint\EventPoint_WebRole\" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="SitePhysicalPath" value="C:\Projects\EventPoint\EventPoint_WebRole\" />
+    <Property name="OriginalItemSpec" value="C:\Projects\EventPoint\EventPoint\EventPoint.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\Projects\EventPoint\EventPoint\EventPoint.ccproj" />
+    <Property name="MSBuildSourceTargetName" value="ResolveSingleWebRoleReference" />
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="C:\Projects\EventPoint\EventPoint_WebRole\">
+      <Bindings>
+        <Binding name="HttpIn" endpointName="HttpIn" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

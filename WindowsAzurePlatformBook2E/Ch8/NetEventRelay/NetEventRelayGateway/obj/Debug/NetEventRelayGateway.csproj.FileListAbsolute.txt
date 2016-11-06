@@ -1,0 +1,55 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.EnergyManagementDevice.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.EnergyManagementDevice.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.EnergyManagementDevice.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\NetEventRelayGateway.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\ServiceBusUtils.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.EnergyManagementDevice.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.Properties.Resources.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\GenerateResource.read.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\GenerateResource.write.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayGateway\obj\Debug\NetEventRelayGateway.pdb

@@ -1,0 +1,244 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    0.0.0.0:990            tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  WcesComm
+ [svchost.exe]
+  TCP    0.0.0.0:1025           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [wininit.exe]
+  TCP    0.0.0.0:1026           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  Eventlog
+ [svchost.exe]
+  TCP    0.0.0.0:1027           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:1028           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:1029           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:1030           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [services.exe]
+  TCP    0.0.0.0:2048           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    0.0.0.0:2103           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2105           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:2107           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    0.0.0.0:5357           tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    0.0.0.0:42510          tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [InoRpc.exe]
+  TCP    127.0.0.1:1046         tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:1801         tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    127.0.0.1:5679         tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  WcesComm
+ [svchost.exe]
+  TCP    127.0.0.1:7438         tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  WcesComm
+ [svchost.exe]
+  TCP    192.168.10.54:139      tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    192.168.10.54:11256    192.168.10.53:31017    ESTABLISHED
+ [Moe.exe]
+  TCP    192.168.10.54:11694    accounts.mesh.com:https  ESTABLISHED
+ [Moe.exe]
+  TCP    192.168.10.54:11696    65.55.236.140:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11697    65.55.236.140:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11698    65.55.236.140:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11703    accounts.mesh.com:https  ESTABLISHED
+ [Moe.exe]
+  TCP    192.168.10.54:11704    accounts.mesh.com:https  ESTABLISHED
+ [Moe.exe]
+  TCP    192.168.10.54:11710    65.55.236.154:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11711    65.55.236.154:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11712    65.55.236.154:https    ESTABLISHED
+ [MOE.exe]
+  TCP    192.168.10.54:11723    cp.ag.mesh.com:https   ESTABLISHED
+ [wlcrasvc.exe]
+  TCP    192.168.10.54:11899    65.55.54.16:828        ESTABLISHED
+ [NetOnewayRelayServer.exe]
+  TCP    192.168.10.54:11903    65.55.54.16:828        ESTABLISHED
+ [NetOnewayRelayClient.exe]
+  TCP    192.168.10.54:31020    tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [Moe.exe]
+  TCP    [::]:135               tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    [::]:990               tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  WcesComm
+ [svchost.exe]
+  TCP    [::]:1025              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [wininit.exe]
+  TCP    [::]:1026              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  Eventlog
+ [svchost.exe]
+  TCP    [::]:1027              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:1028              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    [::]:1029              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [lsass.exe]
+  TCP    [::]:1030              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [services.exe]
+  TCP    [::]:2048              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    [::]:2103              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2105              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    [::]:2107              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    [::]:5357              tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+
+ Can not obtain ownership information
+  TCP    [::]:42510             tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [InoRpc.exe]
+  TCP    [::1]:1046             tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [sqlservr.exe]
+  TCP    [::1]:1801             tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+ [mqsvc.exe]
+  TCP    [::1]:2048             tredkar1.northamerica.corp.microsoft.com:11692  ESTABLISHED
+
+ Can not obtain ownership information
+  TCP    [::1]:2048             tredkar1.northamerica.corp.microsoft.com:11693  ESTABLISHED
+
+ Can not obtain ownership information
+  TCP    [::1]:5679             tredkar1.northamerica.corp.microsoft.com:0  LISTENING
+  WcesComm
+ [svchost.exe]
+  TCP    [::1]:11692            tredkar1.northamerica.corp.microsoft.com:2048  ESTABLISHED
+ [MeshAppMonitor.exe]
+  TCP    [::1]:11693            tredkar1.northamerica.corp.microsoft.com:2048  ESTABLISHED
+ [MeshAppMonitor.exe]
+  UDP    0.0.0.0:123            *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:500            *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:51323          *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:51231        *:*                    
+ [iexplore.exe]
+  UDP    127.0.0.1:53172        *:*                    
+ [iexplore.exe]
+  UDP    127.0.0.1:53396        *:*                    
+ [taskeng.exe]
+  UDP    127.0.0.1:53773        *:*                    
+ [devenv.exe]
+  UDP    127.0.0.1:56405        *:*                    
+ [MeshAppMonitor.exe]
+  UDP    127.0.0.1:56411        *:*                    
+ [Moe.exe]
+  UDP    127.0.0.1:57856        *:*                    
+ [mmc.exe]
+  UDP    127.0.0.1:59605        *:*                    
+  RasMan
+ [svchost.exe]
+  UDP    127.0.0.1:62900        *:*                    
+ [iexplore.exe]
+  UDP    127.0.0.1:63182        *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:63601        *:*                    
+ [MOE.exe]
+  UDP    127.0.0.1:65088        *:*                    
+ [WINWORD.EXE]
+  UDP    127.0.0.1:65314        *:*                    
+ [POWERPNT.EXE]
+  UDP    192.168.10.54:137      *:*                    
+
+ Can not obtain ownership information
+  UDP    192.168.10.54:138      *:*                    
+
+ Can not obtain ownership information
+  UDP    192.168.10.54:1900     *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.10.54:42508    *:*                    
+ [InoRpc.exe]
+  UDP    192.168.10.54:63181    *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:123               *:*                    
+  W32Time
+ [svchost.exe]
+  UDP    [::]:500               *:*                    
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:51324             *:*                    
+  FDResPub
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:63179            *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::30fc:1631:3f57:f5c9%16]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::30fc:1631:3f57:f5c9%16]:63180  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::40e1:19e5:b6bc:e2cf%13]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::40e1:19e5:b6bc:e2cf%13]:63176  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d86a:854c:3f69:7367%11]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::d86a:854c:3f69:7367%11]:63177  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::e1d1:9ec5:7d56:7852%10]:1900  *:*                    
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::e1d1:9ec5:7d56:7852%10]:63178  *:*                    
+  SSDPSRV
+ [svchost.exe]

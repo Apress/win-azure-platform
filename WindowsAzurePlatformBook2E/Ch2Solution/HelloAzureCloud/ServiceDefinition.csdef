@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="HelloAzureCloud" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WebRole name="HelloWebRole" enableNativeCodeExecution="true">
+    <Sites>
+      <Site name="Web">
+        <Bindings>
+          <Binding name="HttpIn" endpointName="HttpIn" />
+        </Bindings>
+      </Site>
+    </Sites>
+    <LocalResources>
+      <LocalStorage name="HelloAzureWorldLocalCache" sizeInMB="10" />
+    </LocalResources>
+    <ConfigurationSettings>
+      <Setting name="PerformanceCounters" />
+      <!--This is the current logging level of the service -->
+      <Setting name="LogLevel" />
+      <Setting name="ThrowExceptions" />
+      <Setting name="EnableOnScreenLogging" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="HttpIn" protocol="http" port="8080" />
+    </Endpoints>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+      <Import moduleName="RemoteAccess" />
+    </Imports>
+    <Certificates>
+    </Certificates>
+  </WebRole>
+  <WorkerRole name="HelloWorkerRole" enableNativeCodeExecution="true">
+    <Endpoints>
+      <!-- Defines an internal endpoint for inter-role communication that can be used to communicate between worker or Web role instances -->
+      <InternalEndpoint name="MyInternalEndpoint" protocol="tcp" />
+      <!-- This is an external endpoint that allows a role to listen on external communication, this could be TCP, HTTP or HTTPS -->
+      <InputEndpoint name="MyExternalEndpoint" port="9001" protocol="tcp" />
+    </Endpoints>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+      <Import moduleName="RemoteAccess" />
+      <Import moduleName="RemoteForwarder" />
+    </Imports>
+    <ConfigurationSettings>
+      <Setting name="PerformanceCounters" />
+    </ConfigurationSettings>
+    <Startup>
+      <Task commandLine="Startme.cmd" executionContext="elevated" taskType="simple">
+      </Task>
+    </Startup>
+  </WorkerRole>
+</ServiceDefinition>

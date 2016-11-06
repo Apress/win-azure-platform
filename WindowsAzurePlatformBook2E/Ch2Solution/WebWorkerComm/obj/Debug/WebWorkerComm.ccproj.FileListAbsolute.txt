@@ -1,0 +1,1 @@
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch2Solution\WebWorkerComm\bin\Debug\ServiceConfiguration.cscfg

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch2Solution">
+</Property><Property Name="Solution File" Value="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Solution.sln">
+</Property><Property Name="Date" Value="Thursday, September 01, 2011">
+</Property><Property Name="Time" Value="21:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="HelloWebRole" Source="HelloWebRole\HelloWebRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="HelloWebRole" Source="HelloWebRole\HelloWebRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="HelloWorkerRole" Source="HelloWorkerRole\HelloWorkerRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="HelloWorkerRole" Source="HelloWorkerRole\HelloWorkerRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloAzureCloud\HelloAzureCloud.ccproj" Source="HelloAzureCloud\HelloAzureCloud.ccproj" Description="Upgraded ProductVersion value to 1.4.0.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloAzureCloud\HelloAzureCloud.ccproj" Source="HelloAzureCloud\HelloAzureCloud.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.4\.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloAzureCloud\HelloAzureCloud.ccproj" Source="HelloAzureCloud\HelloAzureCloud.ccproj" Description="Upgraded target file name from Microsoft.CloudService.targets to Microsoft.WindowsAzure.targets.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloAzureCloud\HelloAzureCloud.ccproj" Source="HelloAzureCloud\HelloAzureCloud.ccproj" Description="Added import $(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\HelloAzureCloud\HelloAzureCloud.ccproj" Source="HelloAzureCloud\HelloAzureCloud.ccproj" Description="Added VisualStudioVersion property.">
+</Event><Event ErrorLevel="0" Project="WebWorkerExchange_WebRole" Source="WebWorkerExchange_WebRole\WebWorkerExchange_WebRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="WebWorkerExchange_WebRole" Source="WebWorkerExchange_WebRole\WebWorkerExchange_WebRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="WebWorkerExchange_WorkerRole" Source="WebWorkerExchange_WorkerRole\WebWorkerExchange_WorkerRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="WebWorkerExchange_WorkerRole" Source="WebWorkerExchange_WorkerRole\WebWorkerExchange_WorkerRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WebWorkerExchange\WebWorkerExchange.ccproj" Source="WebWorkerExchange\WebWorkerExchange.ccproj" Description="Upgraded ProductVersion value to 1.4.0.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WebWorkerExchange\WebWorkerExchange.ccproj" Source="WebWorkerExchange\WebWorkerExchange.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.4\.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WebWorkerExchange\WebWorkerExchange.ccproj" Source="WebWorkerExchange\WebWorkerExchange.ccproj" Description="Upgraded target file name from Microsoft.CloudService.targets to Microsoft.WindowsAzure.targets.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WebWorkerExchange\WebWorkerExchange.ccproj" Source="WebWorkerExchange\WebWorkerExchange.ccproj" Description="Added import $(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\WebWorkerExchange\WebWorkerExchange.ccproj" Source="WebWorkerExchange\WebWorkerExchange.ccproj" Description="Added VisualStudioVersion property.">
+</Event><Event ErrorLevel="0" Project="Ch2Tests" Source="Ch2Tests\Ch2Tests.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Ch2Tests" Source="Ch2Tests\Ch2Tests.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="csmanage" Source="WindowsAzureServiceManagement\csmanage\csmanage\csmanage.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="csmanage" Source="WindowsAzureServiceManagement\csmanage\csmanage\csmanage.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Microsoft.Samples.WindowsAzure.ServiceManagement" Source="WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Microsoft.Samples.WindowsAzure.ServiceManagement" Source="WindowsAzureServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement\Microsoft.Samples.WindowsAzure.ServiceManagement.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ServiceManagement" Source="WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\ServiceManagement.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ServiceManagement" Source="WindowsAzureServiceManagement\ServiceManagement\ServiceManagement\ServiceManagement.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Ch2Solution.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Ch2Solution.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

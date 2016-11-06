@@ -1,0 +1,42 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureTableStorageClasses\obj\Debug\ProAzureTableStorageClasses.pdb

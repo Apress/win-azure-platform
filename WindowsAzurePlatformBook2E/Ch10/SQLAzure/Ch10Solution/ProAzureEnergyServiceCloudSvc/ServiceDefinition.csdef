@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="ProAzureEnergyServiceCloudSvc" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WorkerRole name="LogReceiverWorker" enableNativeCodeExecution="true">
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" />
+      
+    </ConfigurationSettings>
+  </WorkerRole>
+</ServiceDefinition>

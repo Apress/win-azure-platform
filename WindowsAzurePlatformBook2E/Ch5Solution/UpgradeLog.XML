@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch5Solution">
+</Property><Property Name="Solution File" Value="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\Ch5Solution.sln">
+</Property><Property Name="Date" Value="Sunday, February 06, 2011">
+</Property><Property Name="Time" Value="0:41:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="StorageClient" Source="..\StorageClient\Lib\StorageClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="StorageClient" Source="..\StorageClient\Lib\StorageClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="StorageClient" Source="..\StorageClient\Lib\StorageClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

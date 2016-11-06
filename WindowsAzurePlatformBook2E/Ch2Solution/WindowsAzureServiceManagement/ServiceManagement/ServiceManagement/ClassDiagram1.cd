@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Samples.WindowsAzure.ServiceManagement.ServiceManagementExtensionMethods">
+    <Position X="1.5" Y="2" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.Samples.WindowsAzure.ServiceManagement.Deployment">
+    <Position X="6" Y="1" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Microsoft.Samples.WindowsAzure.ServiceManagement.IServiceManagement" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

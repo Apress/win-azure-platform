@@ -1,0 +1,10 @@
+In the following section of Chapter 9 (page 72 or 73)
+"Running the ProAzure Demand-Response Service", it says 
+
+4) Create an InfoCard using Windows CardSpace on your local machine.
+
+5) Upload the card as one of the AppFabric solution credentials. You need this card
+to call methods on the server from the gateway client.
+
+Ignore these two steps and use the issuer name and issuer key from you AppFabric ACS service namespace page. The section was written before PDC 2009 and 
+went into production before the new changes were made to ACS and ServiceBus.

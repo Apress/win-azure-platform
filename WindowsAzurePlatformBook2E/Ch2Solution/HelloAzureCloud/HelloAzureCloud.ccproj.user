@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DeploymentBuildOnly>False</DeploymentBuildOnly>
+    <DeploymentAccountName>proazure</DeploymentAccountName>
+    <DeploymentHostedService>silverlining</DeploymentHostedService>
+    <DeploymentHostedServiceLabel>silverlining</DeploymentHostedServiceLabel>
+    <DeploymentSlot>Production</DeploymentSlot>
+    <DeploymentIncludeIntellitrace>True</DeploymentIncludeIntellitrace>
+    <DeploymentEnableWebDeploy>False</DeploymentEnableWebDeploy>
+    <DeploymentStorageService>silverliningstorage1</DeploymentStorageService>
+    <DeploymentStorageServiceLabel>silverliningstorage1</DeploymentStorageServiceLabel>
+    <DeploymentLabel>HelloAzureCloud - 1/12/2011 1:12:20 PM</DeploymentLabel>
+    <DeploymentPromptBeforeDeleting>True</DeploymentPromptBeforeDeleting>
+    <DeploymentIsExpanded>False</DeploymentIsExpanded>
+  </PropertyGroup>
+</Project>

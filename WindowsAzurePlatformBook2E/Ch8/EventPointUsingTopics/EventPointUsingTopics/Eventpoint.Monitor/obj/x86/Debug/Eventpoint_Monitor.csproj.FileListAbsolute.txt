@@ -1,0 +1,16 @@
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\Eventpoint_Monitor.exe.config
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\Eventpoint_Monitor.exe
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\Eventpoint_Monitor.pdb
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\EventPoint.Common.dll
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\EventPoint_Data.dll
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\EventPoint.Common.pdb
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\EventPoint_Data.pdb
+C:\Projects\EventPoint\Eventpoint_Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\Eventpoint_Monitor.Form1.resources
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\Eventpoint_Monitor.Properties.Resources.resources
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\Eventpoint_Monitor.exe
+C:\Projects\EventPoint\Eventpoint_Monitor\obj\x86\Debug\Eventpoint_Monitor.pdb

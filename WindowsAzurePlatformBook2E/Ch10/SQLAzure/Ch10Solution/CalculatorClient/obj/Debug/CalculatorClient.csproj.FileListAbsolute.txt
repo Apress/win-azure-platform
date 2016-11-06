@@ -1,0 +1,8 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\obj\Debug\CalculatorClient.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\CalculatorClient\obj\Debug\CalculatorClient.pdb

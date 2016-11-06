@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:mstns="http://proazure.org/SystemMessageExchange.xsd" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns="http://proazure.org/SystemMessageExchange.xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://proazure.org/SystemMessageExchange.xsd" id="SystemMessageExchange" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element msdata:IsDataSet="true" msdata:UseCurrentLocale="true" name="SystemMessageExchange">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SystemInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element default="" name="MachineName" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="OSVersion" type="xs:string" />
+              <xs:element default="" name="LocalStoragePath" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="WindowsDirectory" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="SystemDirectory" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="CurrentDirectory" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="UserDomainName" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="UserName" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="Role" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="Timestamp" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="IPAddress" type="xs:string" />
+              <xs:element minOccurs="0" default="" name="HostName" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

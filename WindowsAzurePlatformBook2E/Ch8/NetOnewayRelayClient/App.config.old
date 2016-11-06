@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Replace proazure with your own solution name-->
+
+<configuration>
+
+  <system.serviceModel>
+
+    <bindings>
+      <!-- Application Binding -->
+      <netOnewayRelayBinding>
+        <binding name = "OnewayMessageSecurity">
+          <security mode = "Transport"/>
+        </binding>
+      </netOnewayRelayBinding>
+
+    </bindings>
+
+    <client>
+      <!-- Application Endpoint -->
+      <endpoint name="RelayEndpoint"
+                contract="EnergyServiceContract.IOnewayEnergyServiceOperations"
+                binding="netOnewayRelayBinding"
+                bindingConfiguration="OnewayMessageSecurity"
+                address="sb://proazure.servicebus.windows.net/OnewayEnergyServiceOperations/" />
+    </client>
+
+  </system.serviceModel>
+</configuration>

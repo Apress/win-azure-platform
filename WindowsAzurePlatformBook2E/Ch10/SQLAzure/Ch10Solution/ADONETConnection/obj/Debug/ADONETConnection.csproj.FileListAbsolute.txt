@@ -1,0 +1,34 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.Form1.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\bin\Debug\ADONETConnection.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\bin\Debug\ADONETConnection.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\bin\Debug\ADONETConnection.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\bin\Debug\ADONETConnection.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.Form1.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\ADONETConnection\obj\Debug\ADONETConnection.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\bin\Debug\ADONETConnection.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\bin\Debug\ADONETConnection.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.Form1.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\bin\Debug\ADONETConnection.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\bin\Debug\ADONETConnection.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.Form1.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.Properties.Resources.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\ADONETConnection.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\bin\Debug\ADONETConnection.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\GenerateResource.read.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\ADONETConnection\obj\Debug\GenerateResource.write.1.tlog

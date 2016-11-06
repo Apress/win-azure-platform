@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="DrivesExample" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*">
+  <Role name="Drives">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <!--<Setting name="StorageAccountConnectionString" value="DefaultEndpointsProtocol=http;AccountName=silverliningstorage1;AccountKey=ZXdXkdkUa7EMxoTygmbC8CV9keMxWrBOQaFCfYHNZYj8DX56y0DofQaC3DmgCGf049C/SgEnhapWoTjT1/zXPA==" />-->
+      <Setting name="StorageAccountConnectionString" value="UseDevelopmentStorage=true" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

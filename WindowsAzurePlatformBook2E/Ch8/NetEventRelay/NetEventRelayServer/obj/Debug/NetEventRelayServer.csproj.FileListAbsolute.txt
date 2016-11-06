@@ -1,0 +1,42 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\6\.NETServices July2009 CTP\Ch6Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\NetEventRelayServer.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\Microsoft.ServiceBus.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\EnergyServiceContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\ServiceBusUtils.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\bin\Debug\Microsoft.ServiceBus.xml
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\8\Ch8Solution\NetEventRelay\NetEventRelayServer\obj\Debug\NetEventRelayServer.pdb

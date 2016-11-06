@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f01abdda-5453-490b-8178-cc42aff81324" name="tredkar@TREDKAR3 2011-01-14 12:59:02" runUser="NORTHAMERICA\tredkar" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="84e69578-443d-42a2-9659-5fc59ffe8ee0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="tredkar_TREDKAR3 2011-01-14 12_59_02" />
+  </TestSettings>
+  <Times creation="2011-01-14T12:59:02.4948667-08:00" queuing="2011-01-14T12:59:03.4809653-08:00" start="2011-01-14T12:59:03.9740146-08:00" finish="2011-01-14T12:59:04.7180890-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <WebTest name="WebTest1" storage="c:\tejaswi\publications\windows azure patterns\code\chapters2e\ch2solution\ch2tests\webtest1.webtest" id="21149c3b-6fa2-497c-8d73-1769cff5b311" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iV2ViVGVzdDEiIElkPSIyMTE0OWMzYi02ZmEyLTQ5N2MtOGQ3My0xNzY5Y2ZmNWIzMTEiIE93bmVyPSIiIFByaW9yaXR5PSIyMTQ3NDgzNjQ3IiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAxMCIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSIiIFN0b3BPbkVycm9yPSJGYWxzZSIgUmVjb3JkZWRSZXN1bHRGaWxlPSIiIC8+">
+      <Execution id="2c1040fb-c320-44ff-99aa-5638aa4ea37f" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry isTransparent="false" testId="21149c3b-6fa2-497c-8d73-1769cff5b311" executionId="2c1040fb-c320-44ff-99aa-5638aa4ea37f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <WebTestResult executionId="2c1040fb-c320-44ff-99aa-5638aa4ea37f" testId="21149c3b-6fa2-497c-8d73-1769cff5b311" testName="WebTest1" computerName="TREDKAR3" duration="00:00:00.0213041" startTime="2011-01-14T12:59:04.1770349-08:00" endTime="2011-01-14T12:59:04.6510823-08:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c1040fb-c320-44ff-99aa-5638aa4ea37f">
+      <ResultFiles>
+        <ResultFile path="WebTest1.webtestResult" />
+      </ResultFiles>
+      <TestSettings name="Local" id="84e69578-443d-42a2-9659-5fc59ffe8ee0">
+        <Description>These are default test settings for a local test run.</Description>
+        <Execution>
+          <TestTypeSpecific>
+            <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+              <Browser name="Internet Explorer 7.0">
+                <Headers>
+                  <Header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" />
+                  <Header name="Accept" value="*/*" />
+                  <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+                  <Header name="Accept-Encoding" value="GZIP" />
+                </Headers>
+              </Browser>
+            </WebTestRunConfiguration>
+          </TestTypeSpecific>
+          <AgentRule name="Execution Agents">
+          </AgentRule>
+        </Execution>
+        <Deployment runDeploymentRoot="tredkar_TREDKAR3 2011-01-14 12_59_02" />
+      </TestSettings>
+      <WebTestResultFilePath>tredkar_TREDKAR3 2011-01-14 12_59_02\In\2c1040fb-c320-44ff-99aa-5638aa4ea37f\WebTest1.webtestResult</WebTestResultFilePath>
+    </WebTestResult>
+  </Results>
+</TestRun>

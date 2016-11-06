@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebWorkerExch_WebRole.SystemInfo" CodeBehind="SystemInfo.svc.cs" %>

@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbScripts", "DbScripts", "{91D738FB-1609-4D1D-9B37-D32DCFF6B1F6}"
+	ProjectSection(SolutionItems) = preProject
+		..\DbScript\addusertorole_testuser.sql = ..\DbScript\addusertorole_testuser.sql
+		..\DbScript\ConnectQueries.sql = ..\DbScript\ConnectQueries.sql
+		..\DbScript\createdb_myclouddb.sql = ..\DbScript\createdb_myclouddb.sql
+		..\DbScript\createdb_proazuredemresdb.sql = ..\DbScript\createdb_proazuredemresdb.sql
+		..\DbScript\createlogin_testuser.sql = ..\DbScript\createlogin_testuser.sql
+		..\DbScript\createlogins_testlogins.sql = ..\DbScript\createlogins_testlogins.sql
+		..\DbScript\createlogins_users_addroles_myclouddb.sql = ..\DbScript\createlogins_users_addroles_myclouddb.sql
+		..\DbScript\createtables_proazuredemresdb.sql = ..\DbScript\createtables_proazuredemresdb.sql
+		..\DbScript\createuserforlogin_testuser.sql = ..\DbScript\createuserforlogin_testuser.sql
+		..\DbScript\proazuredemres_allobjects.sql = ..\DbScript\proazuredemres_allobjects.sql
+		..\DbScript\proazuredemres_showplanexample.sql = ..\DbScript\proazuredemres_showplanexample.sql
+		..\DbScript\utility_pricing_allobjects.sql = ..\DbScript\utility_pricing_allobjects.sql
+	EndProjectSection
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ProAzureEnergyServiceCloudSvc", "ProAzureEnergyServiceCloudSvc\ProAzureEnergyServiceCloudSvc.ccproj", "{46913976-DA47-4D2F-B406-BDCA112C0431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogContract", "LogContract\LogContract.csproj", "{D106109E-BBCA-4DE3-90EF-86B8333A6291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReceiverConsole", "LogReceiverConsole\LogReceiverConsole.csproj", "{50B3E480-FA48-49D2-9497-A102B960BF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogReceiverWorker", "LogReceiverWorker\LogReceiverWorker.csproj", "{BF844F97-DFD8-47E0-84F5-E85D4C768E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONETConnection", "ADONETConnection\ADONETConnection.csproj", "{1D3D758D-03D9-41EB-8E8A-DD7F6E669326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAzureDemResDbApp", "ProAzureDemResDbApp\ProAzureDemResDbApp.csproj", "{47DA9B17-4D5C-4148-B69E-D955BDE3CC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAzureDemResContract", "ProAzureDemResContract\ProAzureDemResContract.csproj", "{F2AEDA58-F4D8-4C2C-BF21-45F8AC4F211B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemResGateway", "DemResGateway\DemResGateway.csproj", "{1F14905A-9563-4D5A-8AFC-7460B02DCCA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemResServer", "DemResServer\DemResServer.csproj", "{772243A7-F24D-4B8F-AA09-D1C0B973F804}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "DemResWorker", "DemResWorker\DemResWorker.ccproj", "{A45D9C3E-F555-47E6-8F5D-37D7F63F110C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemResWorkerRole", "DemResWorkerRole\DemResWorkerRole.csproj", "{3A79411F-4EA7-42DD-B1FD-2685404038E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46913976-DA47-4D2F-B406-BDCA112C0431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46913976-DA47-4D2F-B406-BDCA112C0431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46913976-DA47-4D2F-B406-BDCA112C0431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46913976-DA47-4D2F-B406-BDCA112C0431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D106109E-BBCA-4DE3-90EF-86B8333A6291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D106109E-BBCA-4DE3-90EF-86B8333A6291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D106109E-BBCA-4DE3-90EF-86B8333A6291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D106109E-BBCA-4DE3-90EF-86B8333A6291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B3E480-FA48-49D2-9497-A102B960BF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B3E480-FA48-49D2-9497-A102B960BF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B3E480-FA48-49D2-9497-A102B960BF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B3E480-FA48-49D2-9497-A102B960BF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF844F97-DFD8-47E0-84F5-E85D4C768E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF844F97-DFD8-47E0-84F5-E85D4C768E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF844F97-DFD8-47E0-84F5-E85D4C768E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF844F97-DFD8-47E0-84F5-E85D4C768E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3D758D-03D9-41EB-8E8A-DD7F6E669326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3D758D-03D9-41EB-8E8A-DD7F6E669326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3D758D-03D9-41EB-8E8A-DD7F6E669326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3D758D-03D9-41EB-8E8A-DD7F6E669326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DA9B17-4D5C-4148-B69E-D955BDE3CC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DA9B17-4D5C-4148-B69E-D955BDE3CC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DA9B17-4D5C-4148-B69E-D955BDE3CC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DA9B17-4D5C-4148-B69E-D955BDE3CC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AEDA58-F4D8-4C2C-BF21-45F8AC4F211B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AEDA58-F4D8-4C2C-BF21-45F8AC4F211B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AEDA58-F4D8-4C2C-BF21-45F8AC4F211B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AEDA58-F4D8-4C2C-BF21-45F8AC4F211B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F14905A-9563-4D5A-8AFC-7460B02DCCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F14905A-9563-4D5A-8AFC-7460B02DCCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F14905A-9563-4D5A-8AFC-7460B02DCCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F14905A-9563-4D5A-8AFC-7460B02DCCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772243A7-F24D-4B8F-AA09-D1C0B973F804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772243A7-F24D-4B8F-AA09-D1C0B973F804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772243A7-F24D-4B8F-AA09-D1C0B973F804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772243A7-F24D-4B8F-AA09-D1C0B973F804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45D9C3E-F555-47E6-8F5D-37D7F63F110C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45D9C3E-F555-47E6-8F5D-37D7F63F110C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45D9C3E-F555-47E6-8F5D-37D7F63F110C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45D9C3E-F555-47E6-8F5D-37D7F63F110C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A79411F-4EA7-42DD-B1FD-2685404038E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A79411F-4EA7-42DD-B1FD-2685404038E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A79411F-4EA7-42DD-B1FD-2685404038E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A79411F-4EA7-42DD-B1FD-2685404038E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

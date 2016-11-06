@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsAzurePlatformBook2E">
+</Property><Property Name="Solution File" Value="C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\WindowsAzurePlatformBook2E.sln">
+</Property><Property Name="Date" Value="Saturday, November 26, 2011">
+</Property><Property Name="Time" Value="0:18:31 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Source="Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Description="Upgraded ProductVersion value to 1.6.">
+</Event><Event ErrorLevel="3" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Source="Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Source="Ch7\Ch7Solution\ProAzureACSFederation\ProAzureACSWeb\ProAzureACSWeb.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.6\.">
+</Event></UpgradeLog>

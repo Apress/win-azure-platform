@@ -1,0 +1,25 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\LogContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\bin\Debug\LogContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\bin\Debug\LogContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\LogContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\LogContract\obj\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogContract\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogContract\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogContract\obj\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\LogContract\obj\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogContract\bin\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogContract\bin\Debug\LogContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogContract\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogContract\obj\Debug\LogContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\LogContract\obj\Debug\LogContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogContract\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogContract\obj\Debug\LogContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogContract\bin\Debug\LogContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogContract\bin\Debug\LogContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\LogContract\obj\Debug\LogContract.pdb

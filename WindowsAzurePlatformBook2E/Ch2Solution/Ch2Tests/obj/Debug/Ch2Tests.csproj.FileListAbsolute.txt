@@ -1,0 +1,7 @@
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\bin\Debug\Ch2.loadtest
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\bin\Debug\WebTest1.webtest
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\bin\Debug\Ch2Tests.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\bin\Debug\Ch2Tests.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\obj\Debug\Ch2Tests.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch2Solution\Ch2Tests\obj\Debug\Ch2Tests.pdb

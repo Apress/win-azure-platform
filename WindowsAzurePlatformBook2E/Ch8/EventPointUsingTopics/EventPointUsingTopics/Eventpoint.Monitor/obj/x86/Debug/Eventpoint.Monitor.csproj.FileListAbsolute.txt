@@ -1,0 +1,42 @@
+C:\Projects\EventPoint 2011-06-05\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe.config
+C:\Projects\EventPoint 2011-06-05\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.exe
+C:\Projects\EventPoint 2011-06-05\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.pdb
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe.config
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.pdb
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\EventPoint.Common.dll
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\EventPoint_Data.dll
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\EventPoint.Common.pdb
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\EventPoint_Data.pdb
+C:\Projects\EventPoint\Eventpoint.Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\EventPoint.Monitor.Form1.resources
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.Properties.Resources.resources
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.exe
+C:\Projects\EventPoint\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe.config
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.exe
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\EventPoint.Common.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Microsoft.ServiceBus.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\EventPoint.Common.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\EventPoint_Data.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Microsoft.ServiceBus.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\EventPoint.Monitor.Form1.resources
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.Properties.Resources.resources
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\PushProgrammingModel.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\PushProgrammingModel.pdb
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\bin\Debug\Eventpoint_Monitor.exe.config
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.exe
+D:\ApressAzureBook\Code\Ch8\EventPointUsingTopics\EventPointUsingTopics\Eventpoint.Monitor\obj\x86\Debug\Eventpoint_Monitor.pdb

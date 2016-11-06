@@ -1,0 +1,5 @@
+The StorageClient library is from the Windows Azure SDK samples. I have included it with the source because I have made some slight modifications to it to support 
+the copy operations. You can use the sample directly from SDK for most of the operations.
+CREDITS:
+
+Microsoft Corporation

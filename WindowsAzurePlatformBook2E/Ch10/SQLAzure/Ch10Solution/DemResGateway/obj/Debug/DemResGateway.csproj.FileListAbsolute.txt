@@ -1,0 +1,45 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\bin\Debug\ProAzureDemResContract.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\bin\Debug\ProAzureDemResContract.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.Gateway.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\8\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\bin\Debug\DemResGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.Gateway.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch8Solution\DemResGateway\obj\Debug\DemResGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\bin\Debug\ProAzureDemResContract.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\bin\Debug\ProAzureDemResContract.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.Gateway.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\ResolveAssemblyReference.cache
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.Gateway.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.Properties.Resources.resources
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\DemResGateway.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.exe.config
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.exe
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\bin\Debug\DemResGateway.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\bin\Debug\ProAzureDemResContract.dll
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\bin\Debug\ProAzureDemResContract.pdb
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\GenerateResource.read.1.tlog
+D:\ApressAzureBook\Version 1.0 Code\Code\9\Ch9Solution\DemResGateway\obj\Debug\GenerateResource.write.1.tlog

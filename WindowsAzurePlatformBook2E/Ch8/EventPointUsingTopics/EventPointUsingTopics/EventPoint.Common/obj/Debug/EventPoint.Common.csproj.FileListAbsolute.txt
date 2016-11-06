@@ -1,0 +1,14 @@
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\EventPoint.Common.dll.config
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\EventPoint.Common.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\EventPoint.Common.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\EventPoint_Data.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\EventPoint_Data.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\obj\Debug\EventPoint.Common.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\obj\Debug\EventPoint.Common.pdb
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\Microsoft.ServiceBus.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\Microsoft.ServiceBus.xml
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\PushProgrammingModel.dll
+D:\DPE\BrianCodeReview\EventPointUsingTopics\EventPointUsingTopics\EventPoint.Common\bin\Debug\PushProgrammingModel.pdb

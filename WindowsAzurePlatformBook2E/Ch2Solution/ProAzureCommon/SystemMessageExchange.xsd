@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SystemMessageExchange" targetNamespace="http://proazure.org/SystemMessageExchange.xsd" xmlns:mstns="http://proazure.org/SystemMessageExchange.xsd" xmlns="http://proazure.org/SystemMessageExchange.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SystemMessageExchange" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SystemMessageExchange" msprop:Generator_UserDSName="SystemMessageExchange">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SystemInfo" msprop:Generator_TableClassName="SystemInfoDataTable" msprop:Generator_TableVarName="tableSystemInfo" msprop:Generator_TablePropName="SystemInfo" msprop:Generator_RowDeletingName="SystemInfoRowDeleting" msprop:Generator_UserTableName="SystemInfo" msprop:Generator_RowChangingName="SystemInfoRowChanging" msprop:Generator_RowEvHandlerName="SystemInfoRowChangeEventHandler" msprop:Generator_RowDeletedName="SystemInfoRowDeleted" msprop:Generator_RowEvArgName="SystemInfoRowChangeEvent" msprop:Generator_RowChangedName="SystemInfoRowChanged" msprop:Generator_RowClassName="SystemInfoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MachineName" msprop:Generator_ColumnVarNameInTable="columnMachineName" msprop:Generator_ColumnPropNameInRow="MachineName" msprop:Generator_ColumnPropNameInTable="MachineNameColumn" msprop:Generator_UserColumnName="MachineName" type="xs:string" default="" />
+              <xs:element name="OSVersion" msprop:Generator_ColumnVarNameInTable="columnOSVersion" msprop:Generator_ColumnPropNameInRow="OSVersion" msprop:Generator_ColumnPropNameInTable="OSVersionColumn" msprop:Generator_UserColumnName="OSVersion" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="LocalStoragePath" msprop:Generator_ColumnVarNameInTable="columnLocalStoragePath" msprop:Generator_ColumnPropNameInRow="LocalStoragePath" msprop:Generator_ColumnPropNameInTable="LocalStoragePathColumn" msprop:Generator_UserColumnName="LocalStoragePath" type="xs:string" default="" />
+              <xs:element name="WindowsDirectory" msprop:Generator_ColumnVarNameInTable="columnWindowsDirectory" msprop:Generator_ColumnPropNameInRow="WindowsDirectory" msprop:Generator_ColumnPropNameInTable="WindowsDirectoryColumn" msprop:Generator_UserColumnName="WindowsDirectory" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="SystemDirectory" msprop:Generator_ColumnVarNameInTable="columnSystemDirectory" msprop:Generator_ColumnPropNameInRow="SystemDirectory" msprop:Generator_ColumnPropNameInTable="SystemDirectoryColumn" msprop:Generator_UserColumnName="SystemDirectory" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="CurrentDirectory" msprop:Generator_ColumnVarNameInTable="columnCurrentDirectory" msprop:Generator_ColumnPropNameInRow="CurrentDirectory" msprop:Generator_ColumnPropNameInTable="CurrentDirectoryColumn" msprop:Generator_UserColumnName="CurrentDirectory" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="UserDomainName" msprop:Generator_ColumnVarNameInTable="columnUserDomainName" msprop:Generator_ColumnPropNameInRow="UserDomainName" msprop:Generator_ColumnPropNameInTable="UserDomainNameColumn" msprop:Generator_UserColumnName="UserDomainName" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Role" msprop:Generator_ColumnVarNameInTable="columnRole" msprop:Generator_ColumnPropNameInRow="Role" msprop:Generator_ColumnPropNameInTable="RoleColumn" msprop:Generator_UserColumnName="Role" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Timestamp" msprop:Generator_ColumnVarNameInTable="columnTimestamp" msprop:Generator_ColumnPropNameInRow="Timestamp" msprop:Generator_ColumnPropNameInTable="TimestampColumn" msprop:Generator_UserColumnName="Timestamp" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="IPAddress" msprop:Generator_ColumnVarNameInTable="columnIPAddress" msprop:Generator_ColumnPropNameInRow="IPAddress" msprop:Generator_ColumnPropNameInTable="IPAddressColumn" msprop:Generator_UserColumnName="IPAddress" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="HostName" msprop:Generator_ColumnVarNameInTable="columnHostName" msprop:Generator_ColumnPropNameInRow="HostName" msprop:Generator_ColumnPropNameInTable="HostNameColumn" msprop:Generator_UserColumnName="HostName" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

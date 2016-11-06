@@ -1,0 +1,82 @@
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\AjaxControlToolkit.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\AjaxControlToolkit.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ar\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\cs\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\de\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\es\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\fr\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\he\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\hi\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\it\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ja\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ko\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\nl\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\pt\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ru\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\Ch4-5-6Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureReaderTracker_WebRole.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\ProAzureTableStorageClasses.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\bin\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\WindowsAzurePlatformBook2E\Ch5Solution\ProAzureReaderTracker_WebRole\obj\Debug\ProAzureReaderTracker_WebRole.pdb

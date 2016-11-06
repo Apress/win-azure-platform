@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SQLAzureReporting", "SQLAzureReporting\SQLAzureReporting.rptproj", "{691D7424-A512-4084-99F5-A25E66E6FA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Debug|Default.ActiveCfg = Debug
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Debug|Default.Build.0 = DebugLocal
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Debug|Default.Deploy.0 = DebugLocal
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.DebugLocal|Default.Build.0 = DebugLocal
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Release|Default.ActiveCfg = Release
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Release|Default.Build.0 = Release
+		{691D7424-A512-4084-99F5-A25E66E6FA21}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

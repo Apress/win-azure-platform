@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageBatchTest", "TableStorageBatchTest\TableStorageBatchTest.csproj", "{030807E3-A0D6-47FB-839E-7FF255540323}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs34
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TableStorageBatchTest\\TableStorageBatchTest.csproj
+		SccProjectName1 = TableStorageBatchTest
+		SccLocalPath1 = TableStorageBatchTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030807E3-A0D6-47FB-839E-7FF255540323}.Debug|x86.ActiveCfg = Debug|x86
+		{030807E3-A0D6-47FB-839E-7FF255540323}.Debug|x86.Build.0 = Debug|x86
+		{030807E3-A0D6-47FB-839E-7FF255540323}.Release|x86.ActiveCfg = Release|x86
+		{030807E3-A0D6-47FB-839E-7FF255540323}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

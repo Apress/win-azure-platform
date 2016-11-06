@@ -1,0 +1,80 @@
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Windows Azure\SDK Samples\March 2009 CTP\samples\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\3PLogic\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\3PLogic\Community Project\3PLogicAzure\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\3PLogic\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\HighScaleCompute\Community Project\Silverlining Parallel Compute\StorageClient\Lib\bin\Debug\StorageClient.XML
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\obj\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch3and4Solution\StorageClient\Lib\obj\Debug\StorageClient.pdb

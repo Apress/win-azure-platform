@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="EventPoint" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WebRole name="EventPoint_WebRole">
+    <Sites>
+      <Site name="Web">
+        <Bindings>
+          <Binding name="HttpIn" endpointName="HttpIn" />
+        </Bindings>
+      </Site>
+    </Sites>
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" />
+      <Setting name="DataConnectionString" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="HttpIn" protocol="http" port="8080" />
+    </Endpoints>
+    <Imports>
+    </Imports>
+  </WebRole>
+  <WorkerRole name="EventPoint_WorkerRole">
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" />
+      <Setting name="DataConnectionString" />
+    </ConfigurationSettings>
+    <Imports>
+      <Import moduleName="Connect" />
+    </Imports>
+  </WorkerRole>
+  <WorkerRole name="EventPoint.CriticalPersister">
+    <ConfigurationSettings>
+    </ConfigurationSettings>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
+    <Endpoints>
+      <InternalEndpoint name="SBEndpoint" protocol="http" port="80" />
+      <InternalEndpoint name="SBEndpoint2" protocol="http" port="9350" />
+    </Endpoints>
+  </WorkerRole>
+</ServiceDefinition>

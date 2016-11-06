@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.ResourceUriComponents" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAQAAAAAAAA=</HashCode>
+      <FileName>Authentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.MessageCanonicalizer" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAIAAAACAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Authentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.HttpRequestAccessor" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAEAAAAAAAAAAAAAAAAAAKBAAAACAAAAAA=</HashCode>
+      <FileName>Authentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.SharedKeyCredentials" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAgAAAAAEAAAAAgAAAEAAA=</HashCode>
+      <FileName>Authentication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobStorage">
+    <Position X="0.5" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AABAABAAAAAAAAACIABAEAAAAAAAAEICAQQAAAEEAAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.RetryPolicies" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAABEACAAAAAAAAAAAAgAAAQAABAAAAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobContainer" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAIAQAAAASQAICICAAAAQAAAAEASIOAQQEQgFMABA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobProperties" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAAAAAAAAAEAAAAAQAAAAAABABCAAQAAAEACA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.ContainerProperties" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAEAAAAAQAAAAAAAAACAAAAAAEAAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobContents" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAAAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageExtendedErrorInformation" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageException" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAgAAAAAIAAAAAAAACA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageServerException" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageClientException" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageErrorCodeStrings" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAGAQAAAAACAAIAAl5GECEIiAUQCAAACBEAAAgCE=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobErrorCodeStrings" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAAAAAAAAAAAAACAAAAgAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueErrorCodeStrings" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAAAAAAAAAAUEgACAQAAAAAAAACAAAgA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableErrorCodeStrings" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAABAAACFIAAFAAIBCEIAERwAAAAAIAAAApAAAUAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.Utilities" Collapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQgAEAAAAAAAYCgAAAAABACEAAAAgBAEAAAAAAARUAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueStorage" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAABAAAAAAAAAAIAQAQAAAAAAEAEICAQQAAAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.Message" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAEAABAIAAAAAxAAAAAAAAABAAAAACAAAAQAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.MessageReceivedEventArgs" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueProperties" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.MessageQueue" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAKIAAYAAAUAgAIAAAQAQAAkCCEAICAAAAQADAAIA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobStorageRest">
+    <Position X="0.5" Y="11" Width="2.75" />
+    <NestedTypes>
+      <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobStorageRest.ListContainersResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RestBlobStorage.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAIAAhAAAAAAAABQAAAAAAAAI=</HashCode>
+      <FileName>RestBlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.BlobContainerRest" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAQAAAAaQAIAIjAEkAQQICAoASAMBAAEVgBIABA=</HashCode>
+      <FileName>RestBlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.XPathQueryHelper" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAIAAADAAAIAAAAAAEAAAAAAgAEAAAAgAA=</HashCode>
+      <FileName>RestBlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueStorageRest" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAEAAAAAAABA=</HashCode>
+      <FileName>RestQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.QueueRest" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAACIABQACAMCgAAACAgACIA0CC0AABAEAAQADEAIA=</HashCode>
+      <FileName>RestQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageAccountInfo" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIQABAAAiAAAAEAAAAAVEEAMAABAACCIQQAIAACEAA=</HashCode>
+      <FileName>StorageAccountInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageConstants" Collapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAAAAAAAAAABAAAAAAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorage" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAACQACAAQAJAAQEEAAAIAAkEACAcQAAAACABA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageHelpers" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAIBAAEAAAAAAAAAABAAAAAAAAAIA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageTable" Collapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAQAAAIA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageEntity" Collapsed="true">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAACAAAAAAQAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageDataServiceQuery&lt;TElement&gt;" Collapsed="true">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAQgIAAAAAAAAAAAAAgQAAAAAAAAgAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableStorageDataServiceContext" Collapsed="true">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAIAIAAAAAASAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.ContextRef" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.TableRetryWrapperException" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.ParameterValidator" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.DataServiceUtilities" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAEABAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TableStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.ConstChars" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAACAAAEARgAAAAAAACAAAEAAAggAAAAAAEEA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.RequestParams" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAAEAACAAAAAAAAAAAQAAAAg=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.QueryParams" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAACQAAAAAgAgAAAAEAQIAAAgA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.CompConstants" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAEAEI=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.XmlElementNames" Collapsed="true">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EUAEEAQAEEACoKQAgAAQAQQGUCoAARAFCJgWYgiAACE=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.HeaderNames" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAYQAAAAAAKEABMgEBAAAAFAAAAFABAACQoiAAQKA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.HeaderValues" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACCAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.AuthenticationSchemeNames" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.HttpMethod" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAAAAAIAACAEAABAAAAAAAABAAAg=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.BlobBlockConstants" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAIAA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.ListingConstants" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAIAIAIAAAAAAAAA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.RegularExpressionStrings" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageHttpConstants.StandardPortalEndpoints" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIAAAAAAAAAAAIAAABAAAEAAAAAAAAAAAAAAAk=</HashCode>
+      <FileName>RestHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Microsoft.Samples.ServiceHosting.StorageClient.ContainerAccessControl" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.Samples.ServiceHosting.StorageClient.StorageErrorCode" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQIACAAAAgACACQgAAAAkAEgAAAAQAEAFCAAA=</HashCode>
+      <FileName>Errors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Microsoft.Samples.ServiceHosting.StorageClient.RetryPolicy" Collapsed="true">
+    <Position X="10.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>BlobStorage.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Microsoft.Samples.ServiceHosting.StorageClient.MessageReceivedEventHandler" Collapsed="true">
+    <Position X="9" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

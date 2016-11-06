@@ -1,0 +1,1 @@
+bin\EventPoint_WebRole.dll

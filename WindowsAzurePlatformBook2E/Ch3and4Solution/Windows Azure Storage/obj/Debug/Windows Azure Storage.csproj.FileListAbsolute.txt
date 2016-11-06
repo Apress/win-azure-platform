@@ -1,0 +1,56 @@
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\March 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe.config
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.Properties.Resources.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.csproj.GenerateResource.Cache
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Tejaswi\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe.config
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\Windows Azure Storage.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.dll
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\ProAzureCommonLib.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.pdb
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\bin\Debug\StorageClient.xml
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.Properties.Resources.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows_Azure_Storage.WindowsAzureStorage.resources
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.csproj.GenerateResource.Cache
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.exe
+C:\Users\tredkar\Desktop\Publications\Azure Services\Content\Code\4\May 2009 CTP\Ch4Solution\Windows Azure Storage\obj\Debug\Windows Azure Storage.pdb

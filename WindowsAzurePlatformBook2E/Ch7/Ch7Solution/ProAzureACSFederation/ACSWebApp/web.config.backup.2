@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+<configuration>
+  <configSections>
+    <section name="microsoft.identityModel" type="Microsoft.IdentityModel.Configuration.MicrosoftIdentityModelSection, Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+  </configSections>
+  <system.diagnostics>
+    <trace>
+      <listeners>
+        <add type="Microsoft.WindowsAzure.Diagnostics.DiagnosticMonitorTraceListener, Microsoft.WindowsAzure.Diagnostics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" name="AzureDiagnostics">
+          <filter type="" />
+        </add>
+      </listeners>
+    </trace>
+  </system.diagnostics>
+  <location path="FederationMetadata">
+    <system.web>
+      <authorization>
+        <allow users="*" />
+      </authorization>
+    </system.web>
+  </location>
+  <system.web>
+    <authorization>
+      <deny users="?" />
+    </authorization>
+    <authentication mode="None" />
+    <compilation debug="true" targetFramework="4.0">
+      <assemblies>
+        <add assembly="Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" />
+      </assemblies>
+    </compilation>
+    <httpRuntime requestValidationMode="2.0"/>
+  </system.web>
+  <system.webServer>
+    <modules runAllManagedModulesForAllRequests="true">
+      <add name="WSFederationAuthenticationModule" type="Microsoft.IdentityModel.Web.WSFederationAuthenticationModule, Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" preCondition="managedHandler" />
+      <add name="SessionAuthenticationModule" type="Microsoft.IdentityModel.Web.SessionAuthenticationModule, Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" preCondition="managedHandler" />
+    </modules>
+  </system.webServer>
+  <appSettings>
+    <add key="FederationMetadataLocation" value="https://proazure-1.accesscontrol.windows.net/FederationMetadata/2007-06/FederationMetadata.xml" />
+  </appSettings>
+  <microsoft.identityModel>
+    <service>
+      <audienceUris>
+        <add value="https://localhost/ACSWebApp/" />
+      </audienceUris>
+      <federatedAuthentication>
+        <wsFederation passiveRedirectEnabled="true" issuer="https://proazure-1.accesscontrol.windows.net/v2/wsfederation" realm="https://localhost/ACSWebApp/" requireHttps="true" />
+        <cookieHandler requireSsl="true" />
+      </federatedAuthentication>
+      <applicationService>
+        <claimTypeRequired>
+          <!--Following are the claims offered by STS 'https://proazure-1.accesscontrol.windows.net/'. Add or uncomment claims that you require by your application and then update the federation metadata of this application.-->
+          <claimType type="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name" optional="true" />
+          <claimType type="http://schemas.microsoft.com/ws/2008/06/identity/claims/role" optional="true" />
+          <claimType type="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier" optional="true" />
+          <claimType type="http://schemas.microsoft.com/accesscontrolservice/2010/07/claims/identityprovider" optional="true" />
+        </claimTypeRequired>
+      </applicationService>
+      <issuerNameRegistry type="Microsoft.IdentityModel.Tokens.ConfigurationBasedIssuerNameRegistry, Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+        <trustedIssuers>
+          <add thumbprint="8AA84B50553C0075DAACFA1D8BD0FA4E65834A70" name="https://proazure-1.accesscontrol.windows.net/" />
+        </trustedIssuers>
+      </issuerNameRegistry>
+      <certificateValidation certificateValidationMode="None" />
+    </service>
+  </microsoft.identityModel>
+</configuration>

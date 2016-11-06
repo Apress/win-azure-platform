@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch5Solution">
+</Property><Property Name="Solution File" Value="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\Ch5Solution.sln">
+</Property><Property Name="Date" Value="Saturday, August 27, 2011">
+</Property><Property Name="Time" Value="20:56 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ProAzureCommonLib" Source="..\ProAzureCommon\ProAzureCommonLib\ProAzureCommonLib.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Source="ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Description="Upgraded ProductVersion value to 1.4.0.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Source="ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Description="Upgrade CloudExtensionsDir value to $(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Windows Azure Tools\1.4\.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Source="ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Description="Upgraded target file name from Microsoft.CloudService.targets to Microsoft.WindowsAzure.targets.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Source="ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Description="Added import $(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props.">
+</Event><Event ErrorLevel="0" Project="C:\Tejaswi\Publications\Windows Azure Patterns\Code\Chapters2E\Ch5Solution\ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Source="ProAzureReaderTracker\ProAzureReaderTracker.ccproj" Description="Added VisualStudioVersion property.">
+</Event><Event ErrorLevel="0" Project="ProAzureReaderTracker_WebRole" Source="ProAzureReaderTracker_WebRole\ProAzureReaderTracker_WebRole.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ProAzureReaderTracker_WebRole" Source="ProAzureReaderTracker_WebRole\ProAzureReaderTracker_WebRole.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ProAzureTableStorageClasses" Source="ProAzureTableStorageClasses\ProAzureTableStorageClasses.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ProAzureTableStorageClasses" Source="ProAzureTableStorageClasses\ProAzureTableStorageClasses.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="StorageClient" Source="..\StorageClient\Lib\StorageClient.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="StorageClient" Source="..\StorageClient\Lib\StorageClient.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Ch5Solution.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Ch5Solution.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
